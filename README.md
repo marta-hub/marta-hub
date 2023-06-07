@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marta-hub" alt="marta-hub" /></a> </p>
 
-- 🌱 I’m currently learning Front End Languages **react ,js,html,php,css**
+- 🌱 I’m currently learning Front End Languages **react **
 
 - 📫 How to reach me **martaguesh6119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marta-guesh-490801211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marta-guesh-490801211/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marta-guesh-490801211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marta-guesh-490801211/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
