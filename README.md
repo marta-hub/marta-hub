@@ -2,6 +2,7 @@
 <h3 align="center">💡 I enjoy learning about new technologies, creating software, and finding rapid fixes. I'm on track to learn more about cloud architecture, Erp Software Development and artificial intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marta-hub&label=Profile%20views&color=0e75b6&style=flat" alt="marta-hub" /> </p>
+<p align="center"> <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/open-uri20150609-11-oldodq-536x402.png" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marta-hub" alt="marta-hub" /></a> </p>
 
